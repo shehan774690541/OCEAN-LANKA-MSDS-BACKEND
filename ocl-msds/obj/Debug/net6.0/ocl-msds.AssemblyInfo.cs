@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ocl-msds")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04e976b6b4f3c66c0e65c759b385eb70aeccd3dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+394b3ae4b76481f8dabe798abcdb8b3d3449e94a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ocl-msds")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ocl-msds")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

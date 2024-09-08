@@ -63,3 +63,11 @@ E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-m
 E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\obj\Debug\net6.0\ocl-msds.pdb
 E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\obj\Debug\net6.0\ocl-msds.genruntimeconfig.cache
 E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\obj\Debug\net6.0\ref\ocl-msds.dll
+E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\bin\Debug\net6.0\Humanizer.dll
+E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DEV SHEHAN\projects\MSDS\Vue Frontend\msds-ocl\OCEAN-LANKA-MSDS-BACKEND\ocl-msds\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
